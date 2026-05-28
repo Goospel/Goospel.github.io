@@ -102,7 +102,6 @@ plugins:
 
 nav:
   - 홈: index.md
-  - About: about.md
   - 프로젝트:
     - projects/index.md
     - Moodiary (졸업 BE): projects/moodiary.md
