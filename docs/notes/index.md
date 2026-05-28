@@ -17,11 +17,18 @@ ORM / 스키마 / 인덱스 / charset
 - [Hibernate `ddl-auto: update` 의 한계](db/hibernate-ddl-auto-limits.md)
 - [MySQL `utf8mb4` 함정 — 이모지 INSERT 폭발](db/mysql-utf8mb4-trap.md)
 
+### ⚙️ [백엔드 / Spring](backend/spring-async-pattern.md)
+Spring 패턴 / 동시성 / 웹 표준
+
+- [Spring 비동기 (`@EnableAsync` + `@Async`) — long-running 외부 호출 패턴](backend/spring-async-pattern.md)
+- [CORS — Same-Origin Policy + Preflight + allowlist](backend/cors-fundamentals.md)
+
 ### 🚢 [운영 / CI·CD](ops/ci-vs-cd-branch-strategy.md)
 브랜치 전략 / 배포 자동화 / 운영 검증
 
 - [CI vs CD — dev/main 브랜치의 의미](ops/ci-vs-cd-branch-strategy.md)
 - [AWS SSM 자동화 범위 — CD 후 수동 작업 필요한가?](ops/aws-ssm-automation-scope.md)
+- [AWS SSM Run Command — outbound polling 메커니즘](ops/aws-ssm-outbound-polling.md)
 
 ## 📌 누적 정책
 

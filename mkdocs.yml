@@ -118,6 +118,10 @@ nav:
     - 데이터베이스:
       - notes/db/hibernate-ddl-auto-limits.md
       - notes/db/mysql-utf8mb4-trap.md
+    - 백엔드 / Spring:
+      - notes/backend/spring-async-pattern.md
+      - notes/backend/cors-fundamentals.md
     - 운영 / CI·CD:
       - notes/ops/ci-vs-cd-branch-strategy.md
       - notes/ops/aws-ssm-automation-scope.md
+      - notes/ops/aws-ssm-outbound-polling.md
